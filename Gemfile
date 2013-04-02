@@ -14,6 +14,7 @@ gem "jquery-rails", "1.0.19"
 group :assets do
   gem 'sass-rails', "~> 3.2.5"
   gem 'coffee-rails', "~> 3.2.1"
+  gem 'therubyracer'
   gem 'uglifier'
   gem "yui-compressor"
 end
